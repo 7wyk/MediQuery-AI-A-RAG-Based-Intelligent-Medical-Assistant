@@ -11,7 +11,6 @@
 - 🧠 Store and search vectors in Pinecone
 - 🤖 Use Groq’s LLaMA3-70B model for response generation
 - ⚡ FastAPI backend for real-time query handling
-- ☁️ Deployed on Render
 
 ---
 
@@ -23,8 +22,7 @@
 | **Embeddings**    | Google Generative AI / BGE |
 | **Vector DB**     | Pinecone                   |
 | **Framework**     | LangChain                  |
-| **Backend**       | FastAPI                    |
-| **Deployment**    | Render                     |
+| **Backend**       | FastAPI                    |            |
 | **PDF Handling**  | PyMuPDF, LangChain         |
 
 ---
